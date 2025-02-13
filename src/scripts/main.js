@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   AOS.init();
 
-  const dataEvento = new Date("Jun 18, 2023, 13:00:00");
+  const dataEvento = new Date("Sep 15, 2025, 13:00:00");
   const timeStampEvento = dataEvento.getTime();
 
   const contaHoras = setInterval(function () {
